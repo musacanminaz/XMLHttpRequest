@@ -2,7 +2,7 @@
 
 XMLHttpRequest Typscript Project
 
-You can make it more east with Fetch
+You can make it easy with Fetch
 
 ```
 fetch("https://jsonplaceholder.typicode.com/users")
