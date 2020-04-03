@@ -26,3 +26,6 @@ function printData(data) {
     console.log(JSON.parse(data));
 }
 getData("GET", "https://jsonplaceholder.typicode.com/users").then(printData);
+// fetch("https://jsonplaceholder.typicode.com/users")
+//     .then(function (res) { return res.json(); })
+//     .then(console.log);
