@@ -1,0 +1,3 @@
+# XMLHttpRequest
+
+XMLHttpRequest Typscript Project
